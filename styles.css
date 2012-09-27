@@ -1,0 +1,9 @@
+div {
+    margin: 5px;
+}
+
+canvas {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
